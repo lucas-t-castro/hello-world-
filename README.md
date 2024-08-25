@@ -2,4 +2,5 @@
  first repository
 
 Alteração no repositório
-Alteração remota 
+Alteração remota.
+**Continuação do curso em video**, *Aula sobre MarkDown*
